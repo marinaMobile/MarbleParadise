@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063283772851",
+    "project_id": "marble-paradise",
+    "storage_bucket": "marble-paradise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063283772851:android:d3da50c0330ff3c23ecfc6",
+        "android_client_info": {
+          "package_name": "com.amazon.mShop.android.shoppin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063283772851-j33qq5tj1u4log3lt119k4huebu9jkht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNh67j6hXzfuUlGg7zeX3_pSBuBGRAGmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063283772851-j33qq5tj1u4log3lt119k4huebu9jkht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
